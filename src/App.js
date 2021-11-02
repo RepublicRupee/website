@@ -18,14 +18,21 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Join Telegram
+          Telegram
         </a> | <a
           className="App-link"
           href="https://twitter.com/RepublicRupee"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Follow Twitter
+          Twitter
+        </a> | <a
+          className="App-link"
+          href="https://github.com/RepublicRupee"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
         </a>
         </code>
       </header>
