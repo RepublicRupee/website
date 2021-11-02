@@ -33,6 +33,13 @@ function App() {
           rel="noopener noreferrer"
         >
           GitHub
+        </a> | <a
+          className="App-link"
+          href="https://medium.com/@RepublicRupee"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Medium
         </a>
         </code>
       </header>
